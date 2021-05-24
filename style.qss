@@ -1,0 +1,14 @@
+//滑动条槽（整体）的美化
+QSlider::groove:vertical{
+        height: 12px;
+        left: 0px;
+        right: 0px;
+        border:0px;    //指定无边框
+        border-radius:6px;    //指定圆角
+        background:rgba(0,0,0,50);
+ }
+
+//已滑过的进度美化
+QSlider::sub-page:vertical{
+       background:rgba(80,166,234,1);
+}
