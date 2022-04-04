@@ -1,0 +1,13 @@
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\bin\Debug\fileSystem.exe.config
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\bin\Debug\fileSystem.exe
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\bin\Debug\fileSystem.pdb
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.csprojAssemblyReference.cache
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.Form1.resources
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.Properties.Resources.resources
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.csproj.GenerateResource.cache
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.csproj.CoreCompileInputs.cache
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.exe
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.pdb
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.FileEditArea.resources
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.RenameArea.resources
+C:\Users\22109\Desktop\C#-project\fileSystem\fileSystem\obj\Debug\fileSystem.HelpTips.resources
